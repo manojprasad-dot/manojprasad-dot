@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- OFFICIAL GITHUB CYBERPUNK HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=24292f&height=200&section=header&text=MANOJPRASAD%20A&fontSize=44&fontColor=0FBF3E&animation=twinkling&desc=Cybersecurity%20Analyst%20%7C%20Application%20Security%20%7C%20Threat%20Detection&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Official GitHub Cyberpunk Header Banner"/>
+<!-- VIBRANT HIGH-GRAPHICS GRADIENT HEADER BANNER (NO BORING GREY BOX) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=220&section=header&text=MANOJPRASAD%20A&fontSize=50&fontColor=ffffff&animation=twinkling&desc=%E2%9A%A1%20CYBERSECURITY%20ENGINEER%20%7C%20APPSEC%20RESEARCHER%20%7C%20THREAT%20HUNTER%20%E2%9A%A1&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Vibrant Waving Header Banner"/>
 
-<!-- DYNAMIC TYPING SVG (GITHUB LINK BLUE #0969DA) -->
+<!-- DYNAMIC TYPING SVG (NEON MINT #50FA7B) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=750&lines=Cybersecurity+Analyst+%26+AppSec+Engineer;Specialized+in+OWASP+Top+10%2C+VAPT%2C+%26+API+Security;Architect+of+KOVIRX+SOC+Platform+%26+Phishguard+ML+Engine;Available+for+Full-Time+Roles+%26+Security+Audits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=50FA7B&center=true&vCenter=true&random=false&width=750&lines=Cybersecurity+Analyst+%26+AppSec+Engineer;Specialized+in+OWASP+Top+10%2C+VAPT%2C+%26+API+Security;Architect+of+KOVIRX+SOC+Platform+%26+Phishguard+ML+Engine;Available+for+Full-Time+Roles+%26+Security+Audits" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -18,15 +18,15 @@
 <!-- OFFICIAL GITHUB CYBERPUNK FLOATING SOCIAL DOCK -->
 <p align="center">
   <a href="https://manojprasad.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-manojprasad.vercel.app-0FBF3E?style=for-the-badge&labelColor=24292F&color=0FBF3E" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-manojprasad.vercel.app-0FBF3E?style=for-the-badge&labelColor=1e293b&color=0FBF3E" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/manoj-prasad-92b2322b7">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-manoj--prasad-0969DA?style=for-the-badge&labelColor=24292F&color=0969DA" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-manoj--prasad-0969DA?style=for-the-badge&labelColor=1e293b&color=0969DA" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:manojprasadannamalai@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_EMAIL-manojprasadannamalai%40gmail.com-57606A?style=for-the-badge&labelColor=24292F&color=57606A" alt="Email"/>
+    <img src="https://img.shields.io/badge/✉️_EMAIL-manojprasadannamalai%40gmail.com-57606A?style=for-the-badge&labelColor=1e293b&color=57606A" alt="Email"/>
   </a>
 </p>
 
