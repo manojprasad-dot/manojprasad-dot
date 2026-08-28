@@ -1,11 +1,14 @@
 <div align="center">
 
-<!-- RADIUM THEME HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=15141B&height=200&section=header&text=MANOJPRASAD%20A&fontSize=44&fontColor=FF269A&animation=twinkling&desc=Cybersecurity%20Analyst%20%7C%20Application%20Security%20%7C%20Threat%20Detection&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Radium Header Banner"/>
-
-<!-- DYNAMIC TYPING SVG (ELECTRIC CYAN #70E8E8) -->
+<!-- NO BOX - PURE FLOATING TYPING HEADER WITH RADIUM NEON PINK & CYAN -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=19&pause=1000&color=70E8E8&center=true&vCenter=true&random=false&width=750&lines=Cybersecurity+Analyst+%26+AppSec+Engineer;Specialized+in+OWASP+Top+10%2C+VAPT%2C+%26+API+Security;Architect+of+KOVIRX+SOC+Platform+%26+Phishguard+ML+Engine;Available+for+Full-Time+Roles+%26+Security+Audits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=FF269A&center=true&vCenter=true&random=false&width=800&lines=MANOJPRASAD+A;Cybersecurity+Engineer+%26+AppSec;Threat+Hunter+%7C+SOC+Analyst;Architect+of+KOVIRX+%26+Phishguard" alt="Animated Header Text" />
+</a>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1000&color=70E8E8&center=true&vCenter=true&random=false&width=750&lines=Specialized+in+OWASP+Top+10%2C+VAPT%2C+%26+API+Security;Available+for+Full-Time+Roles+%26+Security+Audits" alt="Sub-Header Typing" />
 </a>
 
 <br/><br/>
