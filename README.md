@@ -131,12 +131,12 @@ Availability   : Open for Full-Time Roles, Internships & Security Audits
 
 ---
 
-### 📈 3D Isometric Contribution Calendar & Telemetry
+### 📈 Real-Time GitHub Activity & Contribution Stream
 
 <div align="center">
 
 <a href="https://github.com/manojprasad-dot">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=manojprasad-dot&theme=tokyonight" width="100%" alt="3D Isometric Contribution Calendar" />
+  <img src="https://ghchart.rshah.org/38BDF8/manojprasad-dot" width="100%" alt="GitHub Contribution Stream" />
 </a>
 
 </div>
