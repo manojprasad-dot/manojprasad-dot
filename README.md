@@ -30,9 +30,12 @@
   </a>
 </p>
 
+<!-- ANIMATED NEON LASER LINE SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Line Separator"/>
+
 </div>
 
----
+<br/>
 
 ### 📌 Candidate Snapshot & Professional Summary
 
@@ -46,7 +49,14 @@ Target Roles   : Application Security Engineer, Cybersecurity Analyst, SOC Analy
 Availability   : Open for Full-Time Roles, Internships & Security Audits
 ```
 
----
+<br/>
+
+<!-- ANIMATED NEON LASER LINE SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Line Separator"/>
+</div>
+
+<br/>
 
 ### 🌌 Core Focus & Capabilities
 
@@ -76,7 +86,14 @@ Availability   : Open for Full-Time Roles, Internships & Security Audits
   </tr>
 </table>
 
----
+<br/>
+
+<!-- ANIMATED NEON LASER LINE SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Line Separator"/>
+</div>
+
+<br/>
 
 ### ⚡ Featured Production Projects
 
@@ -90,7 +107,14 @@ Availability   : Open for Full-Time Roles, Internships & Security Audits
 
 </div>
 
----
+<br/>
+
+<!-- ANIMATED NEON LASER LINE SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Line Separator"/>
+</div>
+
+<br/>
 
 ### 🛡️ OWASP Top 10 Audit & Remediation Matrix
 
@@ -106,7 +130,14 @@ Availability   : Open for Full-Time Roles, Internships & Security Audits
 
 </div>
 
----
+<br/>
+
+<!-- ANIMATED NEON LASER LINE SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Line Separator"/>
+</div>
+
+<br/>
 
 ### 🛠️ Technical Stack & ATS Keywords
 
@@ -129,7 +160,14 @@ Availability   : Open for Full-Time Roles, Internships & Security Audits
 
 </div>
 
----
+<br/>
+
+<!-- ANIMATED NEON LASER LINE SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Line Separator"/>
+</div>
+
+<br/>
 
 ### 📈 Real-Time GitHub Activity & Contribution Stream
 
@@ -141,7 +179,14 @@ Availability   : Open for Full-Time Roles, Internships & Security Audits
 
 </div>
 
----
+<br/>
+
+<!-- ANIMATED NEON LASER LINE SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Line Separator"/>
+</div>
+
+<br/>
 
 <div align="center">
 
