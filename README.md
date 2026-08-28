@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- DYNAMIC ANIMATED CYLINDER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0d1117&height=220&section=header&text=MANOJPRASAD%20A&fontSize=48&fontColor=00FF66&animation=twinkling&desc=%E2%9A%A1%20CYBERSECURITY%20ENGINEER%20%7C%20APPSEC%20RESEARCHER%20%7C%20THREAT%20HUNTER%20%E2%9A%A1&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Dynamic Cylinder Banner"/>
+<!-- VIBRANT HIGH-VISIBILITY DARK MODE HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=220&section=header&text=MANOJPRASAD%20A&fontSize=48&fontColor=00FF66&animation=twinkling&desc=%E2%9A%A1%20CYBERSECURITY%20ENGINEER%20%7C%20APPSEC%20RESEARCHER%20%7C%20THREAT%20HUNTER%20%E2%9A%A1&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Vibrant Dark Mode Header Banner"/>
 
 <!-- MULTI-LINE ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -182,7 +182,7 @@
 
 </div>
 
-<!-- DYNAMIC SLICE FOOTER BANNER -->
+<!-- VIBRANT HIGH-VISIBILITY DARK MODE FOOTER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,25,10,2,0&height=120&section=footer" width="100%"/>
 </div>
