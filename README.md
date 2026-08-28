@@ -1,105 +1,119 @@
 <div align="center">
 
-<!-- VIBRANT HIGH-VISIBILITY DARK MODE HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=220&section=header&text=MANOJPRASAD%20A&fontSize=48&fontColor=00FF66&animation=twinkling&desc=%E2%9A%A1%20CYBERSECURITY%20ENGINEER%20%7C%20APPSEC%20RESEARCHER%20%7C%20THREAT%20HUNTER%20%E2%9A%A1&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Vibrant Dark Mode Header Banner"/>
+<!-- HARDCORE CYBER TERMINAL BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=00FF66&strokeWidth=2&height=220&section=header&text=MANOJPRASAD%20A&fontSize=50&fontColor=00FF66&animation=twinkling&desc=%E2%9A%A1%20KALI%20LINUX%20OPERATOR%20%7C%20PENETRATION%20TESTER%20%7C%20APPSEC%20RESEARCHER%20%E2%9A%A1&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Hacker Header Banner"/>
 
-<!-- MULTI-LINE ANIMATED TYPING SVG -->
+<!-- TERMINAL GLITCH TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=750&lines=%3E+manoj%40secops%3A~%23+whoami;%3E+Application+Security+Engineer+%26+Threat+Hunter;%3E+Architecting+KOVIRX+%E2%80%94+SOC+Threat+Monitoring+Platform;%3E+Creator+of+Phishguard+%E2%80%94+AI+Anti-Phishing+Engine;%3E+Mitigating+OWASP+Top+10+%26+Securing+Cloud+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=800&lines=%E2%9A%A0%EF%B8%8F+root%40kali-manoj%3A~%23+whoami;%E2%9A%A0%EF%B8%8F+Initiating+Penetration+Testing+%26+VAPT+Protocols;%E2%9A%A0%EF%B8%8F+Executing+OWASP+Top+10+Vulnerability+Mitigation;%E2%9A%A0%EF%B8%8F+Deploying+KOVIRX+SOC+%26+Phishguard+ML+Engine" alt="Hacker Typing" />
 </a>
 
 <br/><br/>
 
-<!-- FLOATING SOCIAL DOCK -->
+<!-- HACKER COMMAND BUTTONS -->
 <p align="center">
   <a href="https://manojprasad.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-manojprasad.vercel.app-00FF66?style=for-the-badge&labelColor=0d1117&color=00FF66" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/ROOT_PORTFOLIO-00FF66?style=for-the-badge&logo=terminal&logoColor=black&labelColor=000000" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/manoj-prasad-92b2322b7">
-    <img src="https://img.shields.io/badge/👔_LINKEDIN-Manojprasad_A-0A66C2?style=for-the-badge&labelColor=0d1117&color=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-00FF66?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:manojprasadannamalai@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_ENCRYPTED_EMAIL-Contact_Me-EA4335?style=for-the-badge&labelColor=0d1117&color=EA4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-00FF66?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000" alt="Email"/>
   </a>
 </p>
-
-<!-- ANIMATED NEON LASER LINE SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Line Separator"/>
 
 </div>
 
 <br/>
 
-<!-- ZSH TERMINAL CARD -->
+```text
+====================================================================================================
+[+] OPERATOR      : MANOJPRASAD A (root@kali-manoj)
+[+] CLASS         : CYBERSECURITY ANALYST / PENETRATION TESTER / APPSEC RESEARCHER
+[+] ACADEMICS     : B.E. CYBER SECURITY (2023 - 2027) | SRM VALLIAMMAI ENGINEERING COLLEGE (CGPA: 7.24)
+[+] CLEARANCE     : LEVEL-5 (TOP SECRET / RED TEAM OPERATOR)
+[+] SYSTEM STATUS : 🟢 ALL SYSTEMS OPERATIONAL // OPEN FOR RECRUITMENT & FREELANCE AUDITS
+====================================================================================================
+```
+
+<br/>
+
+<!-- HARDCORE KALI LINUX ZSH TERMINAL SESSION -->
 <table width="100%">
   <tr>
-    <td bgcolor="#05080e" style="border: 1.5px solid #00FF66; border-radius: 10px; padding: 16px;">
-      <div style="font-family: monospace; color: #8b949e; margin-bottom: 8px;">🔴 🟡 🟢 &nbsp; <b>manoj@secops: ~ (zsh)</b></div>
-      <hr style="border: 0.5px solid #21262d; margin-bottom: 12px;"/>
-      <pre style="color: #00FF66; font-family: 'Fira Code', monospace; font-size: 13px; margin: 0; line-height: 1.5;">
-<span style="color: #58a6ff;">manoj@secops</span>:<span style="color: #79c0ff;">~</span># cat /etc/operator-specs.json
-{
-  <span style="color: #79c0ff;">"operator"</span>: <span style="color: #a5d6ff;">"Manojprasad A"</span>,
-  <span style="color: #79c0ff;">"role"</span>: <span style="color: #a5d6ff;">"Cybersecurity Analyst & Application Security Engineer"</span>,
-  <span style="color: #79c0ff;">"education"</span>: <span style="color: #a5d6ff;">"SRM Valliammai Engineering College, Chennai (B.E. Cyber Security)"</span>,
-  <span style="color: #79c0ff;">"cgpa"</span>: <span style="color: #a5d6ff;">"7.24 / 10.0"</span>,
-  <span style="color: #79c0ff;">"focus_areas"</span>: [<span style="color: #a5d6ff;">"OWASP Top 10"</span>, <span style="color: #a5d6ff;">"API Security"</span>, <span style="color: #a5d6ff;">"PenTesting (VAPT)"</span>, <span style="color: #a5d6ff;">"SOC Incident Handling"</span>],
-  <span style="color: #79c0ff;">"status"</span>: <span style="color: #56d364;">"🟢 OPERATIONAL & OPEN FOR APPSEC / CYBER ROLES"</span>
-}
-
-<span style="color: #58a6ff;">manoj@secops</span>:<span style="color: #79c0ff;">~</span># ./run_threat_hunt.sh --target production-api
-[<span style="color: #56d364;">INFO</span>] Initializing SIEM threat monitoring agent...
-[<span style="color: #56d364;">INFO</span>] Scanning HTTP endpoints for OWASP Top 10 vulnerabilities...
-[<span style="color: #56d364;">SUCCESS</span>] JWT Bearer Token Middleware & RBAC Active.
-[<span style="color: #56d364;">SUCCESS</span>] Rate Limiting & CORS Origin Policy Enforced.
-[<span style="color: #56d364;">RESULT</span>] Threat Level: <span style="color: #56d364;">LOW (0 Critical Vulnerabilities / All Shields Operational)</span>
-      </pre>
+    <td bgcolor="#000000" style="border: 2px solid #00FF66; border-radius: 6px; padding: 16px;">
+      <div style="font-family: 'Fira Code', monospace; color: #00FF66; font-size: 13px; line-height: 1.6;">
+        <span style="color: #FF0055;">┌──(root㉿kali-manoj)-[~/cyber-ops]</span><br/>
+        <span style="color: #FF0055;">└─#</span> <span style="color: #FFFFFF;">cat /etc/security_manifest.json</span><br/>
+        {<br/>
+        &nbsp;&nbsp;<span style="color: #00F0FF;">"operator"</span>: <span style="color: #00FF66;">"MANOJPRASAD A"</span>,<br/>
+        &nbsp;&nbsp;<span style="color: #00F0FF;">"primary_skills"</span>: [<span style="color: #00FF66;">"Penetration Testing (VAPT)"</span>, <span style="color: #00FF66;">"OWASP Top 10"</span>, <span style="color: #00FF66;">"API Security"</span>, <span style="color: #00FF66;">"SOC Threat Intelligence"</span>],<br/>
+        &nbsp;&nbsp;<span style="color: #00F0FF;">"cyber_tools"</span>: [<span style="color: #00FF66;">"Burp Suite Pro"</span>, <span style="color: #00FF66;">"Nmap"</span>, <span style="color: #00FF66;">"Wireshark"</span>, <span style="color: #00FF66;">"Kali Linux"</span>, <span style="color: #00FF66;">"Docker"</span>, <span style="color: #00FF66;">"Python"</span>],<br/>
+        &nbsp;&nbsp;<span style="color: #00F0FF;">"active_projects"</span>: [<span style="color: #00FF66;">"KOVIRX SOC Engine"</span>, <span style="color: #00FF66;">"Phishguard Anti-Phishing ML"</span>, <span style="color: #00FF66;">"Hustlefy Gig Auth"</span>]<br/>
+        }<br/><br/>
+        <span style="color: #FF0055;">┌──(root㉿kali-manoj)-[~/cyber-ops]</span><br/>
+        <span style="color: #FF0055;">└─#</span> <span style="color: #FFFFFF;">nmap -sS -sV -p 80,443,8080 target.local</span><br/>
+        Starting Nmap 7.94 ( https://nmap.org ) at 2026-08-28 23:22 UTC<br/>
+        Nmap scan report for target.local (192.168.1.105)<br/>
+        PORT     STATE SERVICE VERSION<br/>
+        80/tcp   OPEN  HTTP    Nginx (API Gateway - JWT Auth & Rate-Limiting Enforced)<br/>
+        443/tcp  OPEN  HTTPS   TLS 1.3 Strict HSTS Enabled<br/>
+        8080/tcp OPEN  HTTP    KOVIRX Threat Operations Dashboard Subsystem<br/><br/>
+        Nmap done: 1 IP address (1 host up) scanned in 1.42 seconds<br/>
+        <span style="color: #00FF66;">[+] VULNERABILITY AUDIT COMPLETE :: NO UNPATCHED EXPLOITS DETECTED ✓</span>
+      </div>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ANIMATED NEON LASER LINE SEPARATOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Line Separator"/>
-</div>
-
-<br/>
-
-## 🌌 Core Focus & Capabilities
+## ☠️ OFFENSIVE & DEFENSIVE CYBER CAPABILITIES
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top" style="border: 1px solid #00FF66; border-radius: 8px; padding: 15px; background: #05080e;">
+    <td width="33%" align="center" valign="top" style="border: 1px solid #00FF66; background: #000000; padding: 15px;">
       <br/>
-      <img src="https://img.shields.io/badge/-APPLICATION%20SECURITY-00FF66?style=for-the-badge&logo=security&logoColor=black"/>
+      <img src="https://img.shields.io/badge/⚔️_OFFENSIVE_VAPT-00FF66?style=for-the-badge&labelColor=000000&color=00FF66"/>
       <br/><br/>
-      <b>OWASP Top 10 • API Security</b><br/>
-      Penetration Testing, JWT Authentication, RBAC, Rate Limiting & Input Sanitization
+      <p align="left" style="color: #00FF66; font-family: monospace; font-size: 12px;">
+        • <b>OWASP Top 10 Vulnerability Scanning</b><br/>
+        • <b>API Security & JWT Tampering</b><br/>
+        • <b>Network Enumeration (Nmap/Wireshark)</b><br/>
+        • <b>Rate Limiting & Access Control (RBAC)</b>
+      </p>
     </td>
-    <td width="33%" align="center" valign="top" style="border: 1px solid #7B2CBF; border-radius: 8px; padding: 15px; background: #05080e;">
+    <td width="33%" align="center" valign="top" style="border: 1px solid #FF0055; background: #000000; padding: 15px;">
       <br/>
-      <img src="https://img.shields.io/badge/-THREAT%20DETECTION-7B2CBF?style=for-the-badge&logo=radar&logoColor=white"/>
+      <img src="https://img.shields.io/badge/🛡️_DEFENSIVE_SOC-FF0055?style=for-the-badge&labelColor=000000&color=FF0055"/>
       <br/><br/>
-      <b>SOC Operations • Incident Handling</b><br/>
-      Real-Time Monitoring, Intrusion Logging, Threat Intelligence & Forensic Analysis
+      <p align="left" style="color: #FF0055; font-family: monospace; font-size: 12px;">
+        • <b>KOVIRX SOC Incident Monitoring</b><br/>
+        • <b>Real-Time Intrusion Logging</b><br/>
+        • <b>Incident Handling Workflows</b><br/>
+        • <b>Packet & Threat Analysis</b>
+      </p>
     </td>
-    <td width="33%" align="center" valign="top" style="border: 1px solid #00F0FF; border-radius: 8px; padding: 15px; background: #05080e;">
+    <td width="33%" align="center" valign="top" style="border: 1px solid #00F0FF; background: #000000; padding: 15px;">
       <br/>
-      <img src="https://img.shields.io/badge/-AI%20SECURITY-00F0FF?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+      <img src="https://img.shields.io/badge/🤖_AI_THREAT_DEFENSE-00F0FF?style=for-the-badge&labelColor=000000&color=00F0FF"/>
       <br/><br/>
-      <b>Machine Learning Defense</b><br/>
-      Random Forest Threat Models, Phishing Link Analysis & Intelligent Detection
+      <p align="left" style="color: #00F0FF; font-family: monospace; font-size: 12px;">
+        • <b>Phishguard ML Extension Engine</b><br/>
+        • <b>Random Forest URL Classification</b><br/>
+        • <b>API Key Protection & Rate Limits</b><br/>
+        • <b>Automated Phishing Threat Scoring</b>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛡️ OWASP Top 10 Defense Matrix
+## 🛡️ OWASP TOP 10 AUDIT & MITIGATION MATRIX
 
 <div align="center">
 
@@ -115,21 +129,64 @@
 
 ---
 
-## ⚡ Featured Engineering Projects
+## ☣️ SECURITY PROJECTS & CYBER SUBSYSTEMS
 
-<div align="center">
-
-| Project | Tech Stack | Highlights | Status |
-| :--- | :--- | :--- | :---: |
-| 🛡️ **[KOVIRX](https://github.com/manojprasad-dot)** <br/> *(Threat Operations Platform)* | `React` `Node.js` `Express` `MongoDB` `JWT` `Docker` | Architected full-stack SOC monitoring platform with live alert dashboards, RBAC, and intrusion logging. | `PRODUCTION` |
-| 🔍 **[Phishguard](https://github.com/manojprasad-dot)** <br/> *(Anti-Phishing Engine)* | `Python` `Flask` `JavaScript` `Random Forest` | Chrome extension scanning URLs in real time powered by a trained ML classification backend API. | `OPERATIONAL` |
-| 💼 **[Hustlefy](https://github.com/manojprasad-dot)** <br/> *(Job Matching Platform)* | `Node.js` `Express` `React` `Firebase` `Capacitor` | MSME-registered gig marketplace with Firebase Auth, multi-role dashboards, and mobile deployment. | `STARTUP` |
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top" bgcolor="#000000" style="border: 1px solid #00FF66; padding: 12px;">
+      <h3 style="color: #00FF66; font-family: monospace;">🛡️ KOVIRX — Threat Operations Center</h3>
+      <p style="font-size: 13px; color: #8b949e;"><b>Full-Stack Cybersecurity SOC Platform for Real-Time Threat Monitoring</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-00FF66?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-00FF66?style=flat-square&logo=nodedotjs&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Express-00FF66?style=flat-square&logo=express&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MongoDB-00FF66?style=flat-square&logo=mongodb&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Docker-00FF66?style=flat-square&logo=docker&logoColor=black"/>
+      </p>
+      <ul style="font-size: 13px; color: #00FF66; font-family: monospace;">
+        <li>Architected full-stack SOC monitoring platform with live alert dashboards.</li>
+        <li>Engineered JWT authentication, strict RBAC, rate limiting, and intrusion logging.</li>
+        <li>Containerized microservices stack via Docker for enterprise SOC environments.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" bgcolor="#000000" style="border: 1px solid #00FF66; padding: 12px;">
+      <h3 style="color: #00FF66; font-family: monospace;">🔍 Phishguard — AI Threat Detection Engine</h3>
+      <p style="font-size: 13px; color: #8b949e;"><b>Machine Learning-Powered Browser Extension for Anti-Phishing Defense</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-00FF66?style=flat-square&logo=python&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Flask-00FF66?style=flat-square&logo=flask&logoColor=black"/>
+        <img src="https://img.shields.io/badge/JavaScript-00FF66?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Random_Forest-00FF66?style=flat-square&logo=scikitlearn&logoColor=black"/>
+      </p>
+      <ul style="font-size: 13px; color: #00FF66; font-family: monospace;">
+        <li>Developed real-time browser extension scanning visited web links on the fly.</li>
+        <li>Trained Random Forest machine learning classifier to identify malicious links.</li>
+        <li>Built secured Flask backend API with rate limiting, threat logging, and CORS controls.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" bgcolor="#000000" style="border: 1px solid #00FF66; padding: 12px;">
+      <h3 style="color: #00FF66; font-family: monospace;">💼 Hustlefy — Hyperlocal Gig Platform <code>(MSME Registered Startup)</code></h3>
+      <p style="font-size: 13px; color: #8b949e;"><b>Real-Time Job Lifecycle Engine with Enterprise Auth</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-00FF66?style=flat-square&logo=nodedotjs&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React-00FF66?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Firebase-00FF66?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Capacitor-00FF66?style=flat-square&logo=capacitor&logoColor=black"/>
+      </p>
+      <ul style="font-size: 13px; color: #00FF66; font-family: monospace;">
+        <li>Led full-stack engineering for an MSME-registered gig marketplace startup.</li>
+        <li>Implemented multi-role authentication with Firebase Auth, email verification, and JWT middleware.</li>
+        <li>Engineered cross-platform Android mobile application using Capacitor.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📜 Certifications & Verified Credentials
+## 📜 CERTIFICATIONS & VERIFIED CREDENTIALS
 
 - 📜 **Penetration Testing Certification** — *SRM Valliammai Engineering College (Value Added Course)*
 - 📜 **AWS Academy Graduate** — *Generative AI Foundations Training Badge*
@@ -138,35 +195,29 @@
 
 ---
 
-## 🛠️ Cyber Arsenal & Hacking Tools
+## 🛠️ CYBER ARSENAL & HACKING TOOLKIT
 
 <div align="center">
 
-### **Offensive & Defensive Security**
+### **Offensive & Defensive Security Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=kali,burpsuite,linux,docker,aws,git,github,vscode" alt="Cyber Arsenal" />
 
 <br/><br/>
 
-### **Full-Stack & Backend Systems**
+### **Full-Stack & Backend Frameworks**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,js,fastapi,nodejs,express,react,flask,mongodb,mysql,html,css" alt="Stack Icons" />
 
 </div>
 
-<br/>
+---
 
-<!-- ANIMATED NEON LASER LINE SEPARATOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Line Separator"/>
-</div>
-
-<br/>
-
-## 📈 Real-Time Cyber Telemetry
+## 📊 LIVE SYSTEM TELEMETRY
 
 <div align="center">
 
+<h4 style="color: #00FF66; font-family: monospace;">🟢 MATRIX CONTRIBUTION STREAM</h4>
 <a href="https://github.com/manojprasad-dot">
   <img src="https://ghchart.rshah.org/00FF66/manojprasad-dot" width="100%" alt="Matrix Contribution Chart" />
 </a>
@@ -182,7 +233,7 @@
 
 </div>
 
-<!-- VIBRANT HIGH-VISIBILITY DARK MODE FOOTER BANNER -->
+<!-- HARDCORE FOOTER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,25,10,2,0&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=00FF66&strokeWidth=2&height=80&section=footer&text=%5B%20EOF%20%3A%3A%20SYSTEM%20CONNECTION%20SECURE%20%F0%9F%94%92%20%5D&fontSize=18&fontColor=00FF66" width="100%"/>
 </div>
