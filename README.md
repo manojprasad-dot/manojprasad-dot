@@ -5,7 +5,7 @@
 
 <!-- MULTI-LINE ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=750&lines=%3E+manoj%40secops%3A~%23+whoami;%3E+Application+Security+Engineer+%26+Threat+Hunter;%3E+Architecting+KOVIRX+%E2%80%94+SOC+Threat+Monitoring+Platform;%3E+Creator+of+Phishguard+%E2%80%94+AI+Anti-Phishing+Engine" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=750&lines=%3E+manoj%40secops%3A~%23+whoami;%3E+Application+Security+Engineer+%26+Threat+Hunter;%3E+Architecting+KOVIRX+%E2%80%94+SOC+Threat+Monitoring+Platform;%3E+Creator+of+Phishguard+%E2%80%94+AI+Anti-Phishing+Engine;%3E+Mitigating+OWASP+Top+10+%26+Securing+Cloud+APIs" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -49,11 +49,12 @@
   <span style="color: #79c0ff;">"status"</span>: <span style="color: #56d364;">"🟢 OPERATIONAL & OPEN FOR APPSEC / CYBER ROLES"</span>
 }
 
-<span style="color: #58a6ff;">manoj@secops</span>:<span style="color: #79c0ff;">~</span># nmap -sS -sV target.local
-PORT     STATE SERVICE VERSION
-80/tcp   OPEN  HTTP    API Gateway (Enforcing JWT Auth, Rate Limiting & RBAC)
-8080/tcp OPEN  HTTP    KOVIRX Threat Operations Subsystem
-Result: 0 Critical Vulnerabilities Found ✓
+<span style="color: #58a6ff;">manoj@secops</span>:<span style="color: #79c0ff;">~</span># ./run_threat_hunt.sh --target production-api
+[<span style="color: #56d364;">INFO</span>] Initializing SIEM threat monitoring agent...
+[<span style="color: #56d364;">INFO</span>] Scanning HTTP endpoints for OWASP Top 10 vulnerabilities...
+[<span style="color: #56d364;">SUCCESS</span>] JWT Bearer Token Middleware & RBAC Active.
+[<span style="color: #56d364;">SUCCESS</span>] Rate Limiting & CORS Origin Policy Enforced.
+[<span style="color: #56d364;">RESULT</span>] Threat Level: <span style="color: #56d364;">LOW (0 Critical Vulnerabilities / All Shields Operational)</span>
       </pre>
     </td>
   </tr>
@@ -98,6 +99,22 @@ Result: 0 Critical Vulnerabilities Found ✓
 
 ---
 
+## 🛡️ OWASP Top 10 Defense Matrix
+
+<div align="center">
+
+| Vulnerability Category | Risk Level | Defense & Implementation Strategy |
+| :--- | :---: | :--- |
+| **A01: Broken Access Control** | 🔴 HIGH | Fine-grained **Role-Based Access Control (RBAC)** & JWT token verification in Express/FastAPI. |
+| **A02: Cryptographic Failures** | 🔴 HIGH | End-to-end data encryption, salted password hashing, and secure HTTPS protocol enforcement. |
+| **A03: Injection (SQL / NoSQL / Command)** | 🔴 HIGH | Parameterized SQL queries, MongoDB strict schema sanitization, and strict input validation. |
+| **A07: Identification & Auth Failures** | 🟡 MED | Multi-factor flow, email verification, API key rate-limiting, and brute-force prevention. |
+| **A10: Server-Side Request Forgery (SSRF)** | 🟡 MED | Strict URL parsing, domain whitelisting, and ML link feature extraction in **Phishguard**. |
+
+</div>
+
+---
+
 ## ⚡ Featured Engineering Projects
 
 <div align="center">
@@ -109,6 +126,15 @@ Result: 0 Critical Vulnerabilities Found ✓
 | 💼 **[Hustlefy](https://github.com/manojprasad-dot)** <br/> *(Job Matching Platform)* | `Node.js` `Express` `React` `Firebase` `Capacitor` | MSME-registered gig marketplace with Firebase Auth, multi-role dashboards, and mobile deployment. | `STARTUP` |
 
 </div>
+
+---
+
+## 📜 Certifications & Verified Credentials
+
+- 📜 **Penetration Testing Certification** — *SRM Valliammai Engineering College (Value Added Course)*
+- 📜 **AWS Academy Graduate** — *Generative AI Foundations Training Badge*
+- 👥 **Project Lead** — *Hustlefy (MSME Registered Hyperlocal Startup)*
+- 🛡️ **Club Member** — *Whitehatians Cybersecurity Club*
 
 ---
 
@@ -148,6 +174,13 @@ Result: 0 Critical Vulnerabilities Found ✓
 </div>
 
 ---
+
+<!-- CYBERSECURITY QUOTE -->
+<div align="center">
+
+> *"There are two types of companies: those that have been hacked, and those that don't know they have been hacked."* — **John Chambers**
+
+</div>
 
 <!-- DYNAMIC SLICE FOOTER BANNER -->
 <div align="center">
