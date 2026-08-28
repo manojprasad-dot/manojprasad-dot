@@ -1,32 +1,32 @@
 <div align="center">
 
-<!-- RED AND BLACK FIRE HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=MANOJPRASAD%20A&fontSize=44&fontColor=FF0033&animation=twinkling&desc=%F0%9F%94%A5%20CYBERSECURITY%20ENGINEER%20%7C%20APPSEC%20RESEARCHER%20%7C%20THREAT%20HUNTER%20%F0%9F%94%A5&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Fire Header Banner"/>
+<!-- RADIUM THEME HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=15141B&height=200&section=header&text=MANOJPRASAD%20A&fontSize=44&fontColor=FF269A&animation=twinkling&desc=Cybersecurity%20Analyst%20%7C%20Application%20Security%20%7C%20Threat%20Detection&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Radium Header Banner"/>
 
-<!-- DYNAMIC TYPING SVG (FIRE CRIMSON #FF0033) -->
+<!-- DYNAMIC TYPING SVG (ELECTRIC CYAN #70E8E8) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=19&pause=1000&color=FF0033&center=true&vCenter=true&random=false&width=750&lines=Cybersecurity+Analyst+%26+AppSec+Engineer;Specialized+in+OWASP+Top+10%2C+VAPT%2C+%26+API+Security;Architect+of+KOVIRX+SOC+Platform+%26+Phishguard+ML+Engine;Available+for+Full-Time+Roles+%26+Security+Audits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=19&pause=1000&color=70E8E8&center=true&vCenter=true&random=false&width=750&lines=Cybersecurity+Analyst+%26+AppSec+Engineer;Specialized+in+OWASP+Top+10%2C+VAPT%2C+%26+API+Security;Architect+of+KOVIRX+SOC+Platform+%26+Phishguard+ML+Engine;Available+for+Full-Time+Roles+%26+Security+Audits" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- ICONIC HACKER CAT TYPING ANIMATION WITH FIRE RED BORDER -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Hacker Cat Typing" width="220" style="border-radius: 12px; border: 2px solid #FF0033;"/>
+<!-- ICONIC HACKER CAT TYPING ANIMATION WITH RADIUM PINK BORDER -->
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Hacker Cat Typing" width="220" style="border-radius: 12px; border: 2.5px solid #FF269A;"/>
 
 <br/><br/>
 
-<!-- RED AND BLACK FIRE FLOATING SOCIAL DOCK -->
+<!-- RADIUM THEME FLOATING SOCIAL DOCK -->
 <p align="center">
   <a href="https://manojprasad.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-manojprasad.vercel.app-FF0033?style=for-the-badge&labelColor=000000&color=FF0033" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-manojprasad.vercel.app-FF269A?style=for-the-badge&labelColor=15141B&color=FF269A" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/manoj-prasad-92b2322b7">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-manoj--prasad-FF6600?style=for-the-badge&labelColor=000000&color=FF6600" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-manoj--prasad-F7D070?style=for-the-badge&labelColor=15141B&color=F7D070" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:manojprasadannamalai@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_EMAIL-manojprasadannamalai%40gmail.com-FF0055?style=for-the-badge&labelColor=000000&color=FF0055" alt="Email"/>
+    <img src="https://img.shields.io/badge/✉️_EMAIL-manojprasadannamalai%40gmail.com-70E8E8?style=for-the-badge&labelColor=15141B&color=70E8E8" alt="Email"/>
   </a>
 </p>
 
@@ -64,21 +64,21 @@ Availability   : 🟢 Open for Full-Time Roles, Internships & Security Audits
   <tr>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/-APPLICATION%20SECURITY-FF0033?style=for-the-badge&logo=security&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-APPLICATION%20SECURITY-FF269A?style=for-the-badge&logo=security&logoColor=15141B"/>
       <br/><br/>
       <b>OWASP Top 10 • API Security</b><br/>
       Penetration Testing, JWT Authentication, RBAC, Rate Limiting & Input Sanitization
     </td>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/-THREAT%20DETECTION-FF6600?style=for-the-badge&logo=radar&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-THREAT%20DETECTION-F7D070?style=for-the-badge&logo=radar&logoColor=15141B"/>
       <br/><br/>
       <b>SOC Operations • Incident Handling</b><br/>
       Real-Time Monitoring, Intrusion Logging, Threat Intelligence & Forensic Analysis
     </td>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/-AI%20SECURITY-FF0055?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-AI%20SECURITY-70E8E8?style=for-the-badge&logo=scikitlearn&logoColor=15141B"/>
       <br/><br/>
       <b>Machine Learning Defense</b><br/>
       Random Forest Threat Models, Phishing Link Analysis & Intelligent Detection
@@ -122,11 +122,11 @@ Availability   : 🟢 Open for Full-Time Roles, Internships & Security Audits
 
 | Vulnerability Category | Risk Level | Applied Defense & Mitigation Strategy |
 | :--- | :---: | :--- |
-| **A01: Broken Access Control** | <img src="https://img.shields.io/badge/HIGH-FF0033?style=flat-square"/> | Implemented fine-grained **Role-Based Access Control (RBAC)** & JWT token verification middleware. |
-| **A02: Cryptographic Failures** | <img src="https://img.shields.io/badge/HIGH-FF0033?style=flat-square"/> | End-to-end data encryption, salted password hashing, and secure HTTPS protocol enforcement. |
-| **A03: Injection (SQL / NoSQL / Command)** | <img src="https://img.shields.io/badge/HIGH-FF0033?style=flat-square"/> | Parameterized SQL queries, MongoDB strict schema sanitization, and input validation. |
-| **A07: Identification & Auth Failures** | <img src="https://img.shields.io/badge/MED-FF6600?style=flat-square"/> | Firebase Auth integration, dual-role email verification, API key rate-limiting, and brute-force shields. |
-| **A10: Server-Side Request Forgery (SSRF)** | <img src="https://img.shields.io/badge/MED-FF6600?style=flat-square"/> | Strict URL parsing, domain whitelisting, and ML link feature extraction in **Phishguard**. |
+| **A01: Broken Access Control** | <img src="https://img.shields.io/badge/HIGH-FF269A?style=flat-square"/> | Implemented fine-grained **Role-Based Access Control (RBAC)** & JWT token verification middleware. |
+| **A02: Cryptographic Failures** | <img src="https://img.shields.io/badge/HIGH-FF269A?style=flat-square"/> | End-to-end data encryption, salted password hashing, and secure HTTPS protocol enforcement. |
+| **A03: Injection (SQL / NoSQL / Command)** | <img src="https://img.shields.io/badge/HIGH-FF269A?style=flat-square"/> | Parameterized SQL queries, MongoDB strict schema sanitization, and input validation. |
+| **A07: Identification & Auth Failures** | <img src="https://img.shields.io/badge/MED-F7D070?style=flat-square&logoColor=15141B"/> | Firebase Auth integration, dual-role email verification, API key rate-limiting, and brute-force shields. |
+| **A10: Server-Side Request Forgery (SSRF)** | <img src="https://img.shields.io/badge/MED-F7D070?style=flat-square&logoColor=15141B"/> | Strict URL parsing, domain whitelisting, and ML link feature extraction in **Phishguard**. |
 
 </div>
 
@@ -139,20 +139,24 @@ Availability   : 🟢 Open for Full-Time Roles, Internships & Security Audits
 
 <br/>
 
-### 🛠️ Technical Stack & ATS Keywords
+### 📊 TELEMETRY & GITHUB STATS (EXACT RADIUM THEME)
 
-```text
-┌─────────────────────────┬─────────────────────────────────────────────────────────────────────────────────┐
-│ Domain                  │ Applied Technologies & Tools                                                    │
-├─────────────────────────┼─────────────────────────────────────────────────────────────────────────────────┤
-│ Security & Forensics    │ Burp Suite, Nmap, Wireshark, Kali Linux, OWASP Top 10, VAPT, SIEM Concepts      │
-│ Languages               │ Python, JavaScript, HTML5, CSS3                                                 │
-│ Frameworks & Backend    │ FastAPI, Node.js, Express.js, React, Flask                                       │
-│ Databases & DevOps      │ MySQL, MongoDB, Docker, Git, GitHub, Firebase, VS Code                          │
-└─────────────────────────┴─────────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=manojprasad-dot&show_icons=true&theme=radium" alt="GitHub Stats Radium Theme" />
+
+</div>
 
 <br/>
+
+<!-- ANIMATED NEON LASER LINE SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Line Separator"/>
+</div>
+
+<br/>
+
+### 🛠️ TECHNICAL STACK & ATS KEYWORDS
 
 <div align="center">
 
@@ -169,12 +173,12 @@ Availability   : 🟢 Open for Full-Time Roles, Internships & Security Audits
 
 <br/>
 
-### 📈 Real-Time GitHub Activity & Contribution Stream
+### 📈 REAL-TIME RADIUM PINK CONTRIBUTION STREAM
 
 <div align="center">
 
 <a href="https://github.com/manojprasad-dot">
-  <img src="https://ghchart.rshah.org/FF0033/manojprasad-dot" width="100%" alt="Fiery Red Contribution Stream" />
+  <img src="https://ghchart.rshah.org/FF269A/manojprasad-dot" width="100%" alt="Radium Pink Contribution Stream" />
 </a>
 
 </div>
