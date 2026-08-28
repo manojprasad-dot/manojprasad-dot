@@ -1,16 +1,21 @@
 <div align="center">
 
-<!-- RECRUITER-OPTIMIZED HEADLINE BANNER -->
+<!-- DYNAMIC ANIMATED CYLINDER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=MANOJPRASAD%20A&fontSize=44&fontColor=38BDF8&animation=twinkling&desc=Cybersecurity%20Analyst%20%7C%20Application%20Security%20%7C%20Threat%20Detection&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Header Banner"/>
 
-<!-- DYNAMIC TYPING SVG FOR KEY RECRUITMENT KEYWORDS -->
+<!-- DYNAMIC TYPING SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=750&lines=Cybersecurity+Analyst+%26+AppSec+Engineer;Specialized+in+OWASP+Top+10%2C+VAPT%2C+%26+API+Security;Architect+of+KOVIRX+SOC+Platform+%26+Phishguard+ML+Engine;Available+for+Full-Time+Roles+%26+Security+Audits" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- RECRUITER DIRECT CONTACT DOCK -->
+<!-- ANIMATED DANCING RHINO GIF -->
+<img src="https://media.tenor.com/w0kT4wPR1XkAAAAM/rhino-dance.gif" alt="Dancing Rhino" width="180"/>
+
+<br/><br/>
+
+<!-- HARMONIOUS FLOATING SOCIAL DOCK -->
 <p align="center">
   <a href="https://manojprasad.vercel.app">
     <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-manojprasad.vercel.app-38BDF8?style=for-the-badge&labelColor=1e293b&color=38BDF8" alt="Portfolio"/>
