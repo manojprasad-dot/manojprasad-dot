@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- FEEL-GOOD GRADIENT HEADER BANNER (ADAPTIVE LIGHT & DARK) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=200&section=header&text=MANOJPRASAD%20A&fontSize=46&fontColor=ffffff&animation=twinkling&desc=%E2%9A%A1%20CYBERSECURITY%20ENGINEER%20%7C%20APPSEC%20RESEARCHER%20%7C%20THREAT%20HUNTER%20%E2%9A%A1&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Header Banner"/>
+<!-- CYBER SLICED LASER CUT HEADER BANNER (TWINKLING ANIMATION) -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1,6,12,18,24&height=220&section=header&text=MANOJPRASAD%20A&fontSize=48&fontColor=ffffff&animation=twinkling&desc=%E2%9A%A1%20CYBERSECURITY%20ENGINEER%20%7C%20APPSEC%20RESEARCHER%20%7C%20THREAT%20HUNTER%20%E2%9A%A1&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Cyber Sliced Header Banner"/>
 
 <!-- DYNAMIC TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=750&lines=Cybersecurity+Analyst+%26+AppSec+Engineer;Building+KOVIRX+%E2%80%94+Threat+Monitoring+Platform;Developer+of+Phishguard+%E2%80%94+AI+Anti-Phishing+Engine;Securing+APIs%2C+Cloud%2C+%26+Full-Stack+Architectures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=750&lines=%3E+manoj%40secops%3A~%23+whoami;%3E+Application+Security+Engineer+%26+Threat+Hunter;%3E+Architecting+KOVIRX+%E2%80%94+Threat+Monitoring+Platform;%3E+Creator+of+Phishguard+%E2%80%94+AI+Anti-Phishing+Engine;%3E+Mitigating+OWASP+Top+10+%26+Securing+Cloud+APIs" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -24,6 +24,9 @@
     <img src="https://img.shields.io/badge/✉️_EMAIL-Contact_Me-F43F5E?style=for-the-badge&labelColor=1e293b&color=F43F5E" alt="Email"/>
   </a>
 </p>
+
+<!-- ANIMATED NEON LASER LINE SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Line Separator"/>
 
 </div>
 
@@ -145,7 +148,7 @@
 
 </div>
 
-<!-- HARMONIOUS FOOTER BANNER -->
+<!-- CYBER SLICED LASER CUT FOOTER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,12,6,1&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,18,12,6,1&height=120&section=footer" width="100%" alt="Cyber Sliced Footer Banner"/>
 </div>
