@@ -142,47 +142,11 @@ Availability   : 🟢 Open for Full-Time Roles, Internships & Security Audits
 
 <br/>
 
-### 📊 TELEMETRY & GITHUB STATS (EXACT RADIUM THEME)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=manojprasad-dot&show_icons=true&theme=radium" alt="GitHub Stats Radium Theme" />
-
-</div>
-
-<br/>
-
-<!-- ANIMATED NEON LASER LINE SEPARATOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Line Separator"/>
-</div>
-
-<br/>
-
 ### 🛠️ TECHNICAL STACK & ATS KEYWORDS
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=kali,burpsuite,linux,docker,aws,python,js,fastapi,nodejs,express,react,flask,mongodb,mysql,git,github,vscode" alt="Skills Grid" />
-
-</div>
-
-<br/>
-
-<!-- ANIMATED NEON LASER LINE SEPARATOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Line Separator"/>
-</div>
-
-<br/>
-
-### 📈 REAL-TIME RADIUM PINK CONTRIBUTION STREAM
-
-<div align="center">
-
-<a href="https://github.com/manojprasad-dot">
-  <img src="https://ghchart.rshah.org/FF269A/manojprasad-dot" width="100%" alt="Radium Pink Contribution Stream" />
-</a>
 
 </div>
 
