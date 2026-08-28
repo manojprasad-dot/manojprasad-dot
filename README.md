@@ -43,11 +43,33 @@ Availability   : Open for Full-Time Roles, Internships & Security Audits
 
 ---
 
-### 🏆 Key Highlights & Competitive Victories
+### 🌌 Core Focus & Capabilities
 
-- 🥇 **Winner (1st Place)** — **INFYRA CTF '25** *(National-Level Cybersecurity Capture The Flag Competition)*
-- 🏅 **4th Place** — **0xTi CTF** *(24-Hour National Cybersecurity CTF — Team Leader)*
-- 🎯 **5th Place** — **WTF CTF 3.0** *(Inter-College Cybersecurity CTF Competition)*
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/-APPLICATION%20SECURITY-38BDF8?style=for-the-badge&logo=security&logoColor=white"/>
+      <br/><br/>
+      <b>OWASP Top 10 • API Security</b><br/>
+      Penetration Testing, JWT Authentication, RBAC, Rate Limiting & Input Sanitization
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/-THREAT%20DETECTION-818CF8?style=for-the-badge&logo=radar&logoColor=white"/>
+      <br/><br/>
+      <b>SOC Operations • Incident Handling</b><br/>
+      Real-Time Monitoring, Intrusion Logging, Threat Intelligence & Forensic Analysis
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/-AI%20SECURITY-10B981?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+      <br/><br/>
+      <b>Machine Learning Defense</b><br/>
+      Random Forest Threat Models, Phishing Link Analysis & Intelligent Detection
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -78,16 +100,6 @@ Availability   : Open for Full-Time Roles, Internships & Security Audits
 | **A10: Server-Side Request Forgery (SSRF)** | 🟡 MED | Strict URL parsing, domain whitelisting, and ML link feature extraction in **Phishguard**. |
 
 </div>
-
----
-
-### 📜 Certifications & Verified Credentials
-
-* 📜 **Penetration Testing Certification** — *SRM Valliammai Engineering College (Value Added Course)*
-* 📜 **AWS Academy Graduate** — *Generative AI Foundations Training Badge*
-* 👥 **Project Lead** — *Hustlefy (MSME Registered Hyperlocal Startup)*
-* 🚩 **Team Leader** — *0xTi 24-Hour National CTF Competition*
-* 🛡️ **Active Member** — *Whitehatians Cybersecurity Club*
 
 ---
 
