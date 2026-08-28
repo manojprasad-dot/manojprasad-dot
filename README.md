@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- MODERN DRACULA HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=200&section=header&text=MANOJPRASAD%20A&fontSize=44&fontColor=BD93F9&animation=twinkling&desc=Cybersecurity%20Analyst%20%7C%20Application%20Security%20%7C%20Threat%20Detection&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Modern Dracula Header Banner"/>
+<!-- OFFICIAL GITHUB CYBERPUNK HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=24292f&height=200&section=header&text=MANOJPRASAD%20A&fontSize=44&fontColor=0FBF3E&animation=twinkling&desc=Cybersecurity%20Analyst%20%7C%20Application%20Security%20%7C%20Threat%20Detection&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Official GitHub Cyberpunk Header Banner"/>
 
-<!-- DYNAMIC TYPING SVG (SOFT PURPLE #BD93F9) -->
+<!-- DYNAMIC TYPING SVG (GITHUB LINK BLUE #0969DA) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=750&lines=Cybersecurity+Analyst+%26+AppSec+Engineer;Specialized+in+OWASP+Top+10%2C+VAPT%2C+%26+API+Security;Architect+of+KOVIRX+SOC+Platform+%26+Phishguard+ML+Engine;Available+for+Full-Time+Roles+%26+Security+Audits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=750&lines=Cybersecurity+Analyst+%26+AppSec+Engineer;Specialized+in+OWASP+Top+10%2C+VAPT%2C+%26+API+Security;Architect+of+KOVIRX+SOC+Platform+%26+Phishguard+ML+Engine;Available+for+Full-Time+Roles+%26+Security+Audits" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -15,18 +15,18 @@
 
 <br/><br/>
 
-<!-- MODERN DRACULA FLOATING SOCIAL DOCK -->
+<!-- OFFICIAL GITHUB CYBERPUNK FLOATING SOCIAL DOCK -->
 <p align="center">
   <a href="https://manojprasad.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-manojprasad.vercel.app-BD93F9?style=for-the-badge&labelColor=282a36&color=BD93F9" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-manojprasad.vercel.app-0FBF3E?style=for-the-badge&labelColor=24292F&color=0FBF3E" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/manoj-prasad-92b2322b7">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-manoj--prasad-FF79C6?style=for-the-badge&labelColor=282a36&color=FF79C6" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-manoj--prasad-0969DA?style=for-the-badge&labelColor=24292F&color=0969DA" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:manojprasadannamalai@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_EMAIL-manojprasadannamalai%40gmail.com-FFB86C?style=for-the-badge&labelColor=282a36&color=FFB86C" alt="Email"/>
+    <img src="https://img.shields.io/badge/✉️_EMAIL-manojprasadannamalai%40gmail.com-57606A?style=for-the-badge&labelColor=24292F&color=57606A" alt="Email"/>
   </a>
 </p>
 
@@ -64,21 +64,21 @@ Availability   : 🟢 Open for Full-Time Roles, Internships & Security Audits
   <tr>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/-APPLICATION%20SECURITY-BD93F9?style=for-the-badge&logo=security&logoColor=282a36"/>
+      <img src="https://img.shields.io/badge/-APPLICATION%20SECURITY-0969DA?style=for-the-badge&logo=security&logoColor=white"/>
       <br/><br/>
       <b>OWASP Top 10 • API Security</b><br/>
       Penetration Testing, JWT Authentication, RBAC, Rate Limiting & Input Sanitization
     </td>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/-THREAT%20DETECTION-FF79C6?style=for-the-badge&logo=radar&logoColor=282a36"/>
+      <img src="https://img.shields.io/badge/-THREAT%20DETECTION-57606A?style=for-the-badge&logo=radar&logoColor=white"/>
       <br/><br/>
       <b>SOC Operations • Incident Handling</b><br/>
       Real-Time Monitoring, Intrusion Logging, Threat Intelligence & Forensic Analysis
     </td>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/-AI%20SECURITY-50FA7B?style=for-the-badge&logo=scikitlearn&logoColor=282a36"/>
+      <img src="https://img.shields.io/badge/-AI%20SECURITY-0FBF3E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
       <br/><br/>
       <b>Machine Learning Defense</b><br/>
       Random Forest Threat Models, Phishing Link Analysis & Intelligent Detection
@@ -122,11 +122,11 @@ Availability   : 🟢 Open for Full-Time Roles, Internships & Security Audits
 
 | Vulnerability Category | Risk Level | Applied Defense & Mitigation Strategy |
 | :--- | :---: | :--- |
-| **A01: Broken Access Control** | <img src="https://img.shields.io/badge/HIGH-FF79C6?style=flat-square"/> | Implemented fine-grained **Role-Based Access Control (RBAC)** & JWT token verification middleware. |
-| **A02: Cryptographic Failures** | <img src="https://img.shields.io/badge/HIGH-FF79C6?style=flat-square"/> | End-to-end data encryption, salted password hashing, and secure HTTPS protocol enforcement. |
-| **A03: Injection (SQL / NoSQL / Command)** | <img src="https://img.shields.io/badge/HIGH-FF79C6?style=flat-square"/> | Parameterized SQL queries, MongoDB strict schema sanitization, and input validation. |
-| **A07: Identification & Auth Failures** | <img src="https://img.shields.io/badge/MED-FFB86C?style=flat-square"/> | Firebase Auth integration, dual-role email verification, API key rate-limiting, and brute-force shields. |
-| **A10: Server-Side Request Forgery (SSRF)** | <img src="https://img.shields.io/badge/MED-FFB86C?style=flat-square"/> | Strict URL parsing, domain whitelisting, and ML link feature extraction in **Phishguard**. |
+| **A01: Broken Access Control** | <img src="https://img.shields.io/badge/HIGH-0969DA?style=flat-square"/> | Implemented fine-grained **Role-Based Access Control (RBAC)** & JWT token verification middleware. |
+| **A02: Cryptographic Failures** | <img src="https://img.shields.io/badge/HIGH-0969DA?style=flat-square"/> | End-to-end data encryption, salted password hashing, and secure HTTPS protocol enforcement. |
+| **A03: Injection (SQL / NoSQL / Command)** | <img src="https://img.shields.io/badge/HIGH-0969DA?style=flat-square"/> | Parameterized SQL queries, MongoDB strict schema sanitization, and input validation. |
+| **A07: Identification & Auth Failures** | <img src="https://img.shields.io/badge/MED-57606A?style=flat-square"/> | Firebase Auth integration, dual-role email verification, API key rate-limiting, and brute-force shields. |
+| **A10: Server-Side Request Forgery (SSRF)** | <img src="https://img.shields.io/badge/MED-57606A?style=flat-square"/> | Strict URL parsing, domain whitelisting, and ML link feature extraction in **Phishguard**. |
 
 </div>
 
@@ -174,7 +174,7 @@ Availability   : 🟢 Open for Full-Time Roles, Internships & Security Audits
 <div align="center">
 
 <a href="https://github.com/manojprasad-dot">
-  <img src="https://ghchart.rshah.org/50FA7B/manojprasad-dot" width="100%" alt="Dracula Neon Mint Contribution Stream" />
+  <img src="https://ghchart.rshah.org/0FBF3E/manojprasad-dot" width="100%" alt="GitHub Green Contribution Stream" />
 </a>
 
 </div>
