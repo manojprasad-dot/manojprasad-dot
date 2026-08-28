@@ -10,8 +10,8 @@
 
 <br/><br/>
 
-<!-- ANIMATED DANCING RHINO GIF -->
-<img src="https://media.tenor.com/w0kT4wPR1XkAAAAM/rhino-dance.gif" alt="Dancing Rhino" width="180"/>
+<!-- ICONIC HACKER CAT TYPING ANIMATION -->
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Hacker Cat Typing" width="220" style="border-radius: 12px;"/>
 
 <br/><br/>
 
